@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/AddEmployee.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/UpdateDoctor.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/RemoveReceptionist.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/NewClass.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/dao/EmpDao.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/dao/Users.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/UpdateEmployee.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/AdminPanel.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ViewPatientDetail.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ViewRecep.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/MgEmp.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ViewEmployee.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/AddPatient.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/DeleteEmployees.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/dao/PatientDao.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ViewAppointment.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/pojo/PatientPojo.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/pojo/UserProfile.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ViewAppointments.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/RegisterDoctor.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/dbconnection/dbutil/Ad.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/date.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ViewAdPatients.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/deleteRecep.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/UserLoginFrame.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/pojo/EmpPojo.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/dbconnection/dbutil/DbConnection.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/SinglePatientDetail.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/dao/Thread.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/dao/RecepDao.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/pojo/User.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ViewSinglePat.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/dbconnection/dbutil/NewClass.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ReceptionistScreen.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/DeleteDoctorFrame.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/DeletePatietntFrame.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ViewAllPatient.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/pojo/DoctorPojo.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ManageDoctor.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/pojo/RecepPojo.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/pojo/Stu.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ManageReceptionist.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/RegisterReceptionist.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/SplashScreen.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/UpdatePatientFrame.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/UpdateRecep.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/VerifyOTP.java</file>
+            <file>file:/D:/workspace%20for%20java/HospitalManagementApp/src/hms/gui/ViewDoctor.java</file>
+        </group>
+    </open-files>
+</project-private>
